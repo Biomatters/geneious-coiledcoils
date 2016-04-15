@@ -124,6 +124,7 @@
                 <pathelement location="${classes}"/>
                 <pathelement location="${resources}"/>
                 <pathelement location="${test.classes}"/>
+                <pathelement location="${test-data}"/>
                 <pathelement location="${GeneiousFiles}/resources"/>
                 <pathelement location="${GeneiousFiles}/bundledPlugins"/>
             </classpath>
