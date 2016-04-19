@@ -145,6 +145,9 @@
             <fileset dir="${test.classes}">
                <include name="**/*Test.class"/>
             </fileset>
+            <fileset dir="${test.integration}">
+               <include name="**/*Test.class"/>
+            </fileset>
             </batchtest>
             <classpath>
                 <path refid="classpath"/>
@@ -153,6 +156,7 @@
                 <pathelement location="${classes}"/>
                 <pathelement location="${resources}"/>
                 <pathelement location="${test.classes}"/>
+                <pathelement location="${test.integration}"/>
                 <pathelement location="${testdata.src}"/>
                 <pathelement location="${GeneiousFiles}/resources"/>
                 <pathelement location="${GeneiousFiles}/bundledPlugins"/>
