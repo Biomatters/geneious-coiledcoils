@@ -20,7 +20,6 @@ import com.biomatters.geneious.publicapi.plugin.Options;
  *
  *
  * @author Tobias Thierer
- * @version $Id: CoiledCoilsGraphOptions.java 43609 2011-07-28 03:19:13Z matthew $
  *          <p/>
  *          created on 17.02.2007 20:10:39
  */

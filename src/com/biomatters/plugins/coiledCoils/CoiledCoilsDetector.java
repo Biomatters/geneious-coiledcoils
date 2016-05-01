@@ -28,7 +28,6 @@ package com.biomatters.plugins.coiledCoils;
  * But mostly I've left the variable names the same so it's easy to see the correlation to the pascal.
  *
  * @author Amy Wilson
- * @version $Id$
  *          <p/>
  *          Created on 26/11/2009 12:22:23 PM
  */

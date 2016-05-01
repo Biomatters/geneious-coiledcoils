@@ -26,7 +26,6 @@ import com.biomatters.geneious.publicapi.utilities.CharSequenceUtilities;
  *
  *
  * @author Tobias Thierer
- * @version $Id: CoiledCoilsGraphFactory.java 43609 2011-07-28 03:19:13Z matthew $
  *          <p/>
  *          created on 24.01.2007 21:58:33
  */

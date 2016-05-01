@@ -26,7 +26,6 @@ import java.io.IOException;
  *
  *
  * @author Amy Wilson
- * @version $Id$
  *          <p/>
  *          Created on 27/11/2009 3:09:05 PM
  */

@@ -28,7 +28,6 @@ import java.awt.*;
  * Detects coiled coils based on Lupas (1991)'s algorithm.
  *
  * @author Tobias Thierer
- * @version $Id: CoiledCoilsGraph.java 43609 2011-07-28 03:19:13Z matthew $
  *          <p/>
  *          created on 24.01.2007 23:50:26
  */

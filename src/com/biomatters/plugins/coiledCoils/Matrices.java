@@ -18,7 +18,6 @@ package com.biomatters.plugins.coiledCoils;
  *
  *
  * @author Amy Wilson
- * @version $Id$
  *          <p/>
  *          Created on 27/11/2009 5:27:33 PM
  */

@@ -21,7 +21,6 @@ import com.biomatters.geneious.publicapi.plugin.SequenceGraphFactory;
  *
  *
  * @author Tobias Thierer
- * @version $Id: CoiledCoilsPlugin.java 43609 2011-07-28 03:19:13Z matthew $
  *          <p/>
  *          created on 24.01.2007 21:42:41
  */
